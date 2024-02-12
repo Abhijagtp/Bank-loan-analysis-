@@ -1,7 +1,9 @@
 # Bank-loan-analysis-
 In this project, I have conducted a comprehensive analysis of a bank loan application dataset to derive valuable insights and enhance the accuracy of subsequent modeling. The project comprises several key tasks that focus on data cleaning, outlier detection, addressing data imbalance, and conducting various analyses to understand the factors influencing loan default.
-Key Learnings from the Bank Loan Analysis Project:
 
+Analyzed dataset is provided in pdf/ppt: https://drive.google.com/file/d/1eLpuyMrA7JUaLkXFoUqcHCIUeSb915Qa/view?usp=drive_link
+
+Key Learnings from the Bank Loan Analysis Project:
 - Data Cleaning:
 Identify and handle missing data effectively using Excel functions like COUNT, ISBLANK, and IF.
 Use appropriate methods, such as imputation using AVERAGE or MEDIAN, to address missing values.
