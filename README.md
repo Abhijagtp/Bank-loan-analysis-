@@ -28,7 +28,7 @@ Use Excel functions like CORREL to calculate correlation coefficients and visual
 Identify top correlations within different scenarios, providing insights into potential indicators of loan default.
 Correlate variables with the target variable to understand the relationships contributing to loan default.
 
--Enhanced Data Understanding:
+- Enhanced Data Understanding:
 Gain a comprehensive understanding of the dataset's quality, distribution, and potential influencing factors on loan default.
 
 - Preparation for Modeling:
@@ -36,3 +36,21 @@ Create a clean dataset with addressed missing values and outliers, setting the s
 
 - Business Insights:
 Derive actionable insights for stakeholders by understanding key drivers and patterns related to loan default.
+
+
+QUESTIONS/TASKS
+
+A. Identify Missing Data and Deal with it Appropriately: As a data analyst, you come across missing data in the loan application dataset. It is essential to handle missing data effectively to ensure the accuracy of the analysis.
+Task: Identify the missing data in the dataset and decide on an appropriate method to deal with it using Excel built-in functions and features.
+
+B. Identify Outliers in the Dataset: Outliers can significantly impact the analysis and distort the results. You need to identify outliers in the loan application dataset.
+Task: Detect and identify outliers in the dataset using Excel statistical functions and features, focusing on numerical variables.
+
+C. Analyze Data Imbalance: Data imbalance can affect the accuracy of the analysis, especially for binary classification problems. Understanding the data distribution is crucial for building reliable models.
+Task: Determine if there is data imbalance in the loan application dataset and calculate the ratio of data imbalance using Excel functions.
+
+D. Perform Univariate, Segmented Univariate, and Bivariate Analysis: To gain insights into the driving factors of loan default, it is important to conduct various analyses on consumer and loan attributes.
+Task: Perform univariate analysis to understand the distribution of individual variables, segmented univariate analysis to compare variable distributions for different scenarios, and bivariate analysis to explore relationships between variables and the target variable using Excel functions and features.
+
+E. Identify Top Correlations for Different Scenarios: Understanding the correlation between variables and the target variable can provide insights into strong indicators of loan default.
+Task: Segment the dataset based on different scenarios (e.g., clients with payment difficulties and all other cases) and identify the top correlations for each segmented data using Excel functions.
